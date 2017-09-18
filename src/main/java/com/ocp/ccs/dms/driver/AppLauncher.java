@@ -22,6 +22,8 @@ public class AppLauncher {
 		for(Entry m : hMap.entrySet()) {
 			System.out.println("bb " + m.getValue());
 		}
+		
+		String aStrng = "Hello Things added to Git" ;
 	}
 
 	
